@@ -1,0 +1,11 @@
+
+Ethan Glick
+
+FILES:
+uthreads.cpp - implementation of uthreads.h
+Thread.h - a class to represent each thread and to handle their data.
+Thread.cpp - implementation of Thread.h
+Scheduler.h - a class that manages all aspects of thread processing, from spawning, to blocking, to terminating.
+Scheduler.cpp - implementation of Scheduler.h
+
+
